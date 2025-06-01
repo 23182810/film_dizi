@@ -83,8 +83,86 @@ Platform, kullanıcıların daha önce izledikleri yapımlar, beğenileri, yorum
 
 ### Backend Kurulumu
 
-```bash
 cd backend
 npm install
 npm start
+
+---
+
+💡 Kullanım Senaryosu
+🎞 Ali, film ve dizi izlemeyi seven bir kullanıcıdır. Sisteme giriş yaptıktan sonra:
+
+Beğendiği türleri (bilim kurgu, aksiyon) seçer.
+
+Daha önce izlediği yapımları puanlar.
+
+Sistem ona özel içerik önerileri sunar.
+
+Aradığı yapımları hızlıca bulur.
+
+İzlediği içeriklere yorum yapar, favorilere ekler.
+
+Bu deneyim, her kullanıcı için farklı şekilde özelleştirilmiştir.
+
+---
+
+🌐 LinkedIn Paylaşımı
+Tüm takım üyeleri ve danışman valuntas@gmail.com LinkedIn paylaşımında etiketlenecektir.
+
+Proje broşürü ve GitHub bağlantısı paylaşımda yer alacaktır.
+
+Takım üyeleri kendi kişisel LinkedIn profillerinde de projeyi paylaşacaktır.
+
+---
+
+
+📧 İletişim
+Takım İletişim Sorumlusu: Huri Nisa İnsan
+Danışman Maili: valuntas@gmail.com
+
+GitHub repo ve LinkedIn bağlantıları, paylaşım duyurularında yer almaktadır.
+
+---
+
+✅ Katkı ve Destek
+Proje açık kaynak olarak geliştirilmiştir.
+İlgi duyan herkes, özellikle şu konularda katkı sağlayabilir:
+
+🔁 Öneri algoritmalarını geliştirme
+
+🎨 Arayüz tasarımında iyileştirme
+
+⚡ Performans ve ölçeklenebilirlik optimizasyonları
+
+⭐ Lütfen projeyi yıldızlamayı ve geliştirmek üzere fork etmeyi unutmayın!
+
+---
+
+🏁 Sonuç
+Bu proje, kullanıcıların dijital içerik platformlarında daha keyifli, zaman kazandıran ve kişisel ilgi alanlarına göre şekillenen bir deneyim yaşamalarını sağlamak amacıyla tasarlanmıştır.
+Takım olarak modern yazılım mühendisliği süreçlerine uygun biçimde:
+
+Görev paylaşımı
+
+Dokümantasyon
+
+Test süreçleri
+
+Versiyon kontrol sistemleri
+
+adımları dikkatle uygulanmıştır.
+
+📌 Bu proje, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği “BLM0324 Yazılım Mühendisliği” dersi kapsamında 2025 Bahar döneminde geliştirilmiştir.
+
+```bash
+
+
+
+
+
+
+
+
+
+
 
